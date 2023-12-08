@@ -15,7 +15,7 @@
 
 </p>
 
-<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
+<div align="center"> <h1 align="center"> 🧐 DATA VISUALIZATION 🧐	</h1> </div>
 
 <b>I also have experience using these data visualization tools.<b>
 
