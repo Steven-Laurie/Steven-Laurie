@@ -27,7 +27,7 @@
 </p>
 
 <div align="center"> <h1 align="center"> SOCIALS </h1> </div>
-<b>Lets connect</b>
+<b>You can find me here</b>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/steven-laurie/"> 
